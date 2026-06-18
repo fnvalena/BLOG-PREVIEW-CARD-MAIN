@@ -24,19 +24,16 @@ body {
   box-shadow: 8px 8px 0 black;
 }
 
-/* Imagen */
 .card > img {
   width: 100%;
   border-radius: 12px;
   display: block;
 }
 
-/* Contenido */
 .content {
   margin-top: 16px;
 }
 
-/* Tag */
 .tag {
   background-color: hsl(47, 88%, 63%);
   color: black;
@@ -48,14 +45,13 @@ body {
   display: inline-block;
 }
 
-/* Fecha */
 .date {
   font-size: 12px;
   margin: 12px 0;
   color: black;
 }
 
-/* Título */
+
 .title {
   margin-bottom: 12px;
 }
@@ -73,14 +69,14 @@ body {
   color: hsl(47, 88%, 63%);
 }
 
-/* Descripción */
+
 .description {
   font-size: 14px;
   color: hsl(0, 0%, 42%);
   line-height: 1.5;
 }
 
-/* Autor */
+
 .author {
   display: flex;
   align-items: center;
@@ -97,7 +93,7 @@ body {
   font-weight: 800;
 }
 
-/* Footer fuera del layout */
+
 footer {
   display: none;
 }
